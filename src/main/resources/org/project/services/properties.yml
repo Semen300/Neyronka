@@ -1,0 +1,2 @@
+qwen.api.url = POST https://dashscope-intl.aliyuncs.com/compatible-mode/v1/chat/completions
+qwen.api.key = sk-7179b0294e1249e1b15525ea7b752d4f
